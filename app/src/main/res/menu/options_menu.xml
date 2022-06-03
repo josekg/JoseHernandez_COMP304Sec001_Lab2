@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opt_rock"
+        android:title="@string/string_rock">
+
+    </item>
+    <item
+        android:id="@+id/opt_pop"
+        android:title="@string/string_pop">
+
+    </item>
+    <item
+        android:id="@+id/opt_rap"
+        android:title="@string/string_rap">
+
+    </item>
+    <item
+        android:id="@+id/opt_spanish"
+        android:title="@string/string_spanish">
+
+    </item>
+    <item
+        android:id="@+id/opt_electronic"
+        android:title="@string/string_electronic">
+
+    </item>
+
+</menu>

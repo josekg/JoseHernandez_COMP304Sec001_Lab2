@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Music Inc.</string>
+    <string name="string_rock">Rock</string>
+    <string name="string_pop">Pop</string>
+    <string name="string_rap">Rap/Hip-Hop</string>
+    <string name="string_spanish">Spanish</string>
+    <string name="string_electronic">Electronic</string>
+</resources>
